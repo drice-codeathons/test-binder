@@ -1,2 +1,2 @@
 python -m bash_kernel.install
-jupyter lab workspaces import workspace.json
+jupyter lab workspaces import my-workspace.json
